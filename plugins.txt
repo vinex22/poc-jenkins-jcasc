@@ -2,4 +2,7 @@
 
 
 configuration-as-code:latest
+credentials-binding:latest
+authorize-project:latest
+ldap:latest
 
